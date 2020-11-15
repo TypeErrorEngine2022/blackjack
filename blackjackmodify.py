@@ -1,5 +1,5 @@
 # Main author: Yip
-# Second author: 駱昊
+# Teacher: 駱昊
 import random
 from functools import total_ordering
 
